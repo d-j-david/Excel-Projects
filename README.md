@@ -1,0 +1,14 @@
+# Excel Projects
+
+This repository is nothing more than a collection of independent projects in Excel. To use or view 
+any of these projects, just download the particular file you are interested in.
+
+## Contents
+
+* [PasswordBreaker](#PasswordBreaker)
+
+### PasswordBreaker
+
+If a worksheet password in Excel 2010 or earlier is ever forgotten or unknown, this code will unlock
+the spreadsheet. The file can be opened in a text editor, and its contents pasted into an Excel VBA 
+module, or the .bas file can be imported directly into the Excel file.
