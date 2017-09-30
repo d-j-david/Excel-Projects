@@ -5,7 +5,7 @@ any of these projects, just download the particular file you are interested in.
 
 ## Contents
 
-* [PasswordBreaker](#PasswordBreaker)
+* [PasswordBreaker](#passwordbreaker)
 
 ### PasswordBreaker
 
