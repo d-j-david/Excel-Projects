@@ -10,35 +10,12 @@ any of these projects, just download the particular file you are interested in.
 
 ### ExternalLinkFinder
 
-If you've opened an Excel file a gotten one of these errors:
+External links in a workbook, when broken, can cause the following errors:
 
-> This workbook contains links to other data sources
+1. This workbook contains links to other data sources
+2. This workbook contains one or more links that cannot be updated
 
-or
-
-> This workbook contains one or more links that cannot be updated
-
-then you're probably familiar with how frustrating it can sometimes be to figure out just what is 
-causing it. This code searches every sheet for external links in:
-
-- Cell formulas
-- Cell conditional formatting formulas
-- Cell data validation formulas
-- Chart formulas
-- Shape formulas
-- Shape assigned macros
-- Form Control input ranges
-- Form Control linked cells
-- Pivot Table data sources
-- Regular Table data sources
-- Named Ranges RefersTo formulas
-
-When an external link is found, a new line is created in the summary sheet, detailing:
-- Type     - Cell, Shape, Pivot Table, etc
-- Name     - Name of Range, Pivot Table, etc
-- Location - Sheet name and cell
-- Offender - Was it the cell's formula? Conditional formatting? Validation?
-- Value    - What the actual reference formula is
+This code finds all external links, and records them in a summary sheet for the user
 
 ### PasswordBreaker
 
