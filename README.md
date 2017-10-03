@@ -20,5 +20,7 @@ This code finds all external links, and records them in a summary sheet for the 
 ### PasswordBreaker
 
 If a worksheet password in Excel 2010 or earlier is ever forgotten or unknown, this code will unlock
-the spreadsheet. The file can be opened in a text editor, and its contents pasted into an Excel VBA 
-module, or the .bas file can be imported directly into the Excel file.
+the spreadsheet. 
+
+PasswordBreaker can be opened in a text editor (to be pasted into an Excel VBA module) or imported 
+directly into an Excel file.
