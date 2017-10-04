@@ -6,6 +6,7 @@ any of these projects, just download the particular file you are interested in.
 ## Contents
 
 * [ExternalLinkFinder](#externallinkfinder)
+* [LockBox](#lockbox)
 
 ### ExternalLinkFinder
 
@@ -27,4 +28,4 @@ A more comprehensive explanation and walk-through can be found in the file itsel
 
 PLEASE NOTE: Although I believe this is a fairly secure way to store passwords, this project was
 primarily for my own enjoyment and curiosity. If you wish to store your passwords in an official
-capacity, please use a service such as [LastPass](#https://www.lastpass.com/).
+capacity, please use a service such as [LastPass](https://www.lastpass.com/).
