@@ -22,7 +22,8 @@ This code finds all external links, and records them in a summary sheet for the 
 LockBox is a place to store encrypted passwords. All the encryption is done within the spreadsheet
 itself, and it never stores the user's true passwords. The user only needs to remember one key for 
 encrypting and decrypting. LockBox also has the ability to generate random passwords that adhere 
-to user-defined parameters. And all of this is done without the use of macros!
+to user-defined parameters. And all of this is done without the use of macros, so it will even work
+with Excel Online, so you can use your passwords on the go!
 
 A more comprehensive explanation and walk-through can be found in the file itself.
 
