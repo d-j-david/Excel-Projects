@@ -23,10 +23,10 @@ LockBox is a place to store encrypted passwords. All the encryption is done with
 itself, and it never stores the user's true passwords. The user only needs to remember one key for 
 encrypting and decrypting. LockBox also has the ability to generate random passwords that adhere 
 to user-defined parameters. And all of this is done without the use of macros, so it will even work
-with Excel Online, so you can use your passwords on the go!
+with Excel Online!
 
 A more comprehensive explanation and walk-through can be found in the file itself.
 
-PLEASE NOTE: Although I believe this is a fairly secure way to store passwords, this project was
-primarily for my own enjoyment and curiosity. If you wish to store your passwords in an official
-capacity, please use a service such as [LastPass](https://www.lastpass.com/).
+DISCLAIMER: This personal project was created for my own curiosity and enjoyment. If you 
+wish to store your passwords in an official capacity, please use a service such as 
+[LastPass](https://www.lastpass.com/).
