@@ -11,7 +11,7 @@ any of these projects, just download the particular file you are interested in.
 
 ### Boxplot Example
 
-An example dataset and resulting boxplot for [TheNumberist](https://thenumberist.wordpress.com/2018/02/20/how-to-make-a-boxplot-in-excel/).
+An example dataset and resulting boxplot for [TheNumberist](https://thenumberist.wordpress.com/2018/02/19/how-to-make-a-boxplot-in-excel/).
 
 ### ExternalLinkFinder
 
