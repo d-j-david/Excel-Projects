@@ -5,7 +5,7 @@ any of these projects, just download the particular file you are interested in.
 
 ## Contents
 
-* [Boxplot_Example](#boxplot_example)
+* [Boxplot_Example](#boxplot-example)
 * [ExternalLinkFinder](#externallinkfinder)
 * [LockBox](#lockbox)
 
